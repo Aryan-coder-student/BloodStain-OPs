@@ -1,6 +1,3 @@
-
-Below is a `README.md` file for your MLOps pipeline, explaining the purpose of each file, the `dvc.yaml` configuration, the Airflow DAG, and the folder structure. This README assumes the setup from the previous response and provides a clear guide for users or collaborators.
-
 ---
 
 # Blood Detection MLOps Pipeline
