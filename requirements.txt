@@ -1,0 +1,10 @@
+roboflow
+ultralytics
+fastapi
+uvicorn
+dvc
+apache-airflow
+pillow
+numpy
+opencv-python
+pyyaml

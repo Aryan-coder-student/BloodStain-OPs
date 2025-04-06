@@ -1,0 +1,18 @@
+data:
+  roboflow_api_key: ""  # Replace with your Roboflow API key
+  workspace: "bloodviolenceweapons"
+  project: "blood-detection-v3"
+  version: 2
+  format: "yolov8"
+
+training:
+  model: "yolov8n.pt"
+  epochs: 10
+  imgsz: 640
+  batch: 16
+  name: "yolov8n_blood_detection"
+
+paths:
+  data_dir: "data"
+  model_dir: "models"
+  output_model: "models/yolov8n_blood_detection.pt"
